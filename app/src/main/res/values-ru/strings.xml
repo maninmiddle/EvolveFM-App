@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evolve FM</string>
+    <string name="stringNews">Новости</string>
+    <string name="stringPlay">Слушать</string>
+    <string name="stringSettings">Настройки</string>
+    <string name="stringPause">Пауза</string>
+    <string name="stringDarkTheme">Тёмная тема</string>
+    <string name="stringVolume">Громкость</string>
+</resources>

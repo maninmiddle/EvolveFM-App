@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evolve FM</string>
+    <string name="stringNews">News</string>
+    <string name="stringPlay">Play</string>
+    <string name="stringSettings">Settings</string>
+    <string name="stringPause">Pause</string>
+    <string name="stringDarkTheme">Dark Theme</string>
+    <string name="stringVolume">Volume</string>
+</resources>

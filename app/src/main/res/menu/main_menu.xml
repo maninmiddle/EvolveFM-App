@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottomNavNews"
+        android:icon="@drawable/ic_news"
+        android:title="@string/stringNews"
+        app:cnb_backgroundColor="@color/colorAccent"
+        app:cnb_iconColor="@color/colorWhite"
+        app:cnb_textColor="@color/colorWhite" />
+
+    <item
+        android:id="@+id/bottomNavPlay"
+        android:icon="@drawable/ic_play"
+        android:title="@string/stringPlay"
+        app:cnb_backgroundColor="@color/colorAccent"
+        app:cnb_iconColor="@color/colorWhite"
+        app:cnb_textColor="@color/colorWhite" />
+
+    <item
+        android:id="@+id/bottomNavSettings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/stringSettings"
+        app:cnb_backgroundColor="@color/colorAccent"
+        app:cnb_iconColor="@color/colorWhite"
+        app:cnb_textColor="@color/colorWhite" />
+</menu>
